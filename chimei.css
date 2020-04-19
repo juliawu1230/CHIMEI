@@ -9,6 +9,7 @@ body{
 }
 .fixed{
     position:fixed;
+    z-index:500;
 }
 
 .container-fluid{
@@ -94,7 +95,7 @@ body{
 }
 .eventleft{
     margin-right: 140px;
-    height:222px;
+    /* height:222px; */
     overflow-x: hidden;
     z-index: 0;
 }
