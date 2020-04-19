@@ -79,6 +79,7 @@ body{
 }
 .but{
     padding:20px;
+    padding-left: 108px;
     display:flex;
     justify-content: space-around;
     border-bottom: #b47b4e 1px solid;
@@ -96,7 +97,7 @@ body{
 }
 
 .b1{
-    padding-right: 120px !important;
+    padding-right: 97px !important;
 }
 .header1{
     padding-top:150px !important;
