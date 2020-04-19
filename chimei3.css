@@ -96,7 +96,7 @@ body{
 }
 
 .b1{
-    padding-right: 40px !important;
+    padding-right: 120px !important;
 }
 .header1{
     padding-top:150px !important;
@@ -105,6 +105,10 @@ body{
 .content{
     padding:50px ;
     text-align: center;
+}
+
+.content h6{
+    padding:10px 438px;
 }
 
 .content h3 {
