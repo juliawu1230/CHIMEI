@@ -98,6 +98,7 @@ body{
 }
 
 .content{
+    padding-left: 87px !important;
     padding:50px;
     z-index:10;
 }
@@ -170,9 +171,11 @@ h1,h2,h3,h5,h6{
 }
 
 .page{
-    color:#b47b4e;
+    position: relative;
+    right: 15px;
+    color: #b47b4e;
     font-size: 1.6rem;
     margin-bottom: 20px;
-    padding:50px;
+    padding: 50px;
 }
 
